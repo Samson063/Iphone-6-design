@@ -1,4 +1,5 @@
-﻿# Iphone-6-design
-Designed an Iphone 6 just for fun
-##.....
-.HTML/CSS
+# Iphone-6-design
+A simple design of an Iphone 6 with Html/css
+
+## Installation
+......
